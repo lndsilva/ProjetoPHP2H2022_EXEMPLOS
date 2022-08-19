@@ -1,8 +1,8 @@
 <?php
   
-	//Program to print index of an associative array
+	//Programa para imprimir o indice de uma matriz associativa
 	  
-	//Declare an associative array
+	//Declarando array associativa
 	$assoc_array=array("Geeks"=>10, "para"=>15, "geeks"=>20); 
 	  
 	//Print index with corresponding key
